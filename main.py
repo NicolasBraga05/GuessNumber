@@ -1,3 +1,4 @@
+# jogo para adivinhar o numero
 from random import randint
 def guessNumber():
     tentativa = 0
